@@ -1,0 +1,102 @@
+- ¿Es un ser vivo?
+- ¿Es un animal?
+- ¿Es un mamífero?
+- ¿Es un insecto?
+- ¿Es un reptil?
+- ¿Es un ave?
+- ¿Es un pez?
+- ¿Es una planta?
+- ¿Es humano?
+- ¿Es hecho por el hombre?
+- ¿Es un objeto físico?
+- ¿Es tangible?
+- ¿Es visible a simple vista?
+- ¿Es pequeño?
+- ¿Es grande?
+- ¿Es redondo?
+- ¿Tiene patas?
+- ¿Tiene alas?
+- ¿Tiene ruedas?
+- ¿Tiene motor?
+- ¿Tiene pantalla?
+- ¿Tiene olor?
+- ¿Tiene sabor?
+- ¿Tiene color?
+- ¿Tiene pelo?
+- ¿Tiene plumas?
+- ¿Tiene escamas?
+- ¿Tiene piel?
+- ¿Tiene caparazón?
+- ¿Tiene cuernos?
+- ¿Tiene ojos?
+- ¿Tiene boca?
+- ¿Tiene orejas?
+- ¿Tiene cola?
+- ¿Tiene manos?
+- ¿Tiene dedos?
+- ¿Tiene voz?
+- ¿Hace ruido?
+- ¿Se mueve?
+- ¿Puede volar?
+- ¿Puede nadar?
+- ¿Puede caminar?
+- ¿Puede correr?
+- ¿Puede saltar?
+- ¿Puede hablar?
+- ¿Puede pensar?
+- ¿Puede crecer?
+- ¿Puede reproducirse?
+- ¿Puede morir?
+- ¿Es peligroso?
+- ¿Es venenoso?
+- ¿Es agresivo?
+- ¿Es doméstico?
+- ¿Es salvaje?
+- ¿Es útil?
+- ¿Es decorativo?
+- ¿Es tecnológico?
+- ¿Es eléctrico?
+- ¿Es mecánico?
+- ¿Es digital?
+- ¿Es antiguo?
+- ¿Es moderno?
+- ¿Es famoso?
+- ¿Es valioso?
+- ¿Es caro?
+- ¿Es barato?
+- ¿Es común?
+- ¿Es raro?
+- ¿Es coleccionable?
+- ¿Es comestible?
+- ¿Es bebible?
+- ¿Es tóxico?
+- ¿Es suave?
+- ¿Es duro?
+- ¿Es frágil?
+- ¿Es pesado?
+- ¿Es liviano?
+- ¿Es caliente?
+- ¿Es frío?
+- ¿Es líquido?
+- ¿Es sólido?
+- ¿Es gaseoso?
+- ¿Es natural?
+- ¿Es artificial?
+- ¿Es usado diariamente?
+- ¿Se encuentra en casa?
+- ¿Se encuentra en la naturaleza?
+- ¿Se encuentra en el cielo?
+- ¿Se encuentra bajo tierra?
+- ¿Se encuentra en el agua?
+- ¿Se encuentra en una ciudad?
+- ¿Se encuentra en una granja?
+- ¿Se encuentra en una oficina?
+- ¿Se encuentra en una escuela?
+- ¿Se encuentra en un hospital?
+- ¿Se encuentra en un vehículo?
+- ¿Se puede comprar?
+- ¿Se puede vender?
+- ¿Se puede usar para trabajar?
+- ¿Se puede usar para jugar?
+- ¿Es ficticio
+

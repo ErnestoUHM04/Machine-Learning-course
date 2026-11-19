@@ -1,0 +1,19 @@
+# Ignore Word documents
+*.docx
+*.doc
+
+# Ignore Python-generated files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+.venv/
+
+# Ignore ZIP archives
+*.zip
+
+# Ignore macOS metadata
+.DS_Store
+
+# Ignore the executable files
+*.exe

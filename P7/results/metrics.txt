@@ -1,0 +1,68 @@
+🔹 MÉTODO 1: Hold-Out (70% train, 30% test)
+
+📊 Dataset: Iris
+Accuracy:  1.0000
+Precision: 1.0000
+Recall:    1.0000
+F1 Score:  1.0000
+----------------------------------------
+📊 Dataset: Dígitos
+Accuracy:  0.9889
+Precision: 0.9890
+Recall:    0.9891
+F1 Score:  0.9889
+----------------------------------------
+📊 Dataset: Vino
+Accuracy:  0.7407
+Precision: 0.7260
+Recall:    0.7268
+F1 Score:  0.7261
+----------------------------------------
+
+🔹 MÉTODO 2: K-Fold (k=5)
+
+📊 Dataset: Iris
+Accuracy  : 0.9667
+Precision : 0.9715
+Recall    : 0.9649
+F1        : 0.9659
+----------------------------------------
+📊 Dataset: Dígitos
+Accuracy  : 0.9866
+Precision : 0.9870
+Recall    : 0.9866
+F1        : 0.9866
+----------------------------------------
+📊 Dataset: Vino
+Accuracy  : 0.7083
+Precision : 0.7013
+Recall    : 0.7022
+F1        : 0.6965
+----------------------------------------
+
+🔹 MÉTODO 3: Stratified K-Fold (k=5)
+
+📊 Dataset: Iris
+Accuracy  : 0.9533
+Precision : 0.9556
+Recall    : 0.9533
+F1        : 0.9530
+----------------------------------------
+📊 Dataset: Dígitos
+Accuracy  : 0.9894
+Precision : 0.9898
+Recall    : 0.9894
+F1        : 0.9894
+----------------------------------------
+📊 Dataset: Vino
+Accuracy  : 0.6792
+Precision : 0.6708
+Recall    : 0.6660
+F1        : 0.6579
+----------------------------------------
+
+🔹 MÉTODO 4: Leave-One-Out (LOO)
+
+📊 Dataset: Iris | Accuracy promedio: 0.9600
+📊 Dataset: Dígitos | Accuracy promedio: 0.9889
+📊 Dataset: Vino | Accuracy promedio: 0.7247

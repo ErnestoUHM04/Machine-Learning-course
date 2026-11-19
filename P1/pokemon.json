@@ -1,0 +1,90 @@
+[
+    {
+        "pokemon": "Bulbasaur",
+        "caracteristicas": [
+            "tipo planta",
+            "tipo veneno",
+            "inicial"
+        ]
+    },
+    {
+        "pokemon": "Charmander",
+        "caracteristicas": [
+            "tipo fuego",
+            "inicial"
+        ]
+    },
+    {
+        "pokemon": "Squirtle",
+        "caracteristicas": [
+            "tipo agua",
+            "inicial"
+        ]
+    },
+    {
+        "pokemon": "Caterpie",
+        "caracteristicas": [
+            "tipo bicho"
+        ]
+    },
+    {
+        "pokemon": "Ivysaur",
+        "caracteristicas": [
+            "tipo planta",
+            "tipo veneno",
+            "inicial",
+            "evolucion"
+        ]
+    },
+    {
+        "pokemon": "Weedle",
+        "caracteristicas": [
+            "tipo bicho",
+            "tipo veneno"
+        ]
+    },
+    {
+        "pokemon": "Pidgey",
+        "caracteristicas": [
+            "tipo normal",
+            "tipo volador"
+        ]
+    },
+    {
+        "pokemon": "Rattata",
+        "caracteristicas": [
+            "tipo normal"
+        ]
+    },
+    {
+        "pokemon": "Pikachu",
+        "caracteristicas": [
+            "tipo electrico",
+            "evolucion",
+            "un roedor"
+        ]
+    },
+    {
+        "pokemon": "Zubat",
+        "caracteristicas": [
+            "tipo veneno",
+            "tipo volador"
+        ]
+    },
+    {
+        "pokemon": "Geodude",
+        "caracteristicas": [
+            "tipo roca",
+            "tipo tierra"
+        ]
+    },
+    {
+        "pokemon": "Charmeleon",
+        "caracteristicas": [
+            "evolucion",
+            "inicial",
+            "tipo fuego",
+            "un dragon"
+        ]
+    }
+]

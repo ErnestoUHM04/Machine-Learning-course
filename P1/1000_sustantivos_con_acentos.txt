@@ -1,0 +1,1684 @@
+cf0 
+mesa
+silla
+puerta
+ventana
+pared
+techo
+piso
+lámpara
+cama
+colchón
+almohada
+cobija
+sábana
+escritorio
+estante
+armario
+cajón
+closet
+perchero
+espejo
+reloj
+tapete
+cortina
+persiana
+sofá
+butaca
+banqueta
+taburete
+cojín
+cuadro
+florero
+jarrón
+maceta
+planta
+árbol
+arbusto
+flor
+hoja
+raíz
+tronco
+rama
+piedra
+roca
+canto
+arena
+grava
+tierra
+barro
+lodo
+ladrillo
+bloque
+cemento
+yeso
+cal
+madera
+tabique
+viga
+clavo
+tornillo
+tuerca
+arandela
+martillo
+destornillador
+alicate
+pinza
+llave
+llave inglesa
+sierra
+segueta
+cincel
+formón
+taladro
+broca
+lima
+esmeril
+soplete
+escuadra
+nivel
+cinta métrica
+serrote
+cepillo
+gato
+gato hidráulico
+prensa
+tijeras
+cutter
+navaja
+cúter
+gancho
+anzuelo
+cuerda
+soga
+cadenilla
+cadena
+candado
+bisagra
+pomo
+manija
+cerrojo
+picaporte
+cerradura
+interruptor
+enchufe
+contacto
+clavija
+cable
+extensión
+regleta
+fusible
+foco
+bombilla
+led
+reflector
+linterna
+batería
+pila
+panel solar
+placa
+transformador
+generador
+motor
+turbina
+ventilador
+extractor
+radiador
+calentador
+boiler
+termotanque
+termostato
+estufa
+horno
+microondas
+licuadora
+batidora
+tostador
+cafetera
+tetera
+ollita
+olla
+sartén
+cacerola
+cazuela
+tapa
+colador
+espátula
+cucharon
+cucharón
+cuchara
+tenedor
+cuchillo
+pelador
+rallador
+abrelatas
+sacacorchos
+vaso
+taza
+plato
+cuenco
+bowl
+botella
+jarra
+termo
+cantimplora
+embudo
+salero
+pimentero
+azucarero
+mantel
+servilleta
+trapo
+estropajo
+fibra
+jergas
+jerga
+escoba
+recogedor
+cubeta
+balde
+trapeador
+mopa
+aspiradora
+escurridor
+lavadora
+secadora
+plancha
+tabla de planchar
+percha
+tendedero
+pinza de ropa
+bañera
+regadera
+ducha
+inodoro
+wc
+retrete
+taza del baño
+lavabo
+fregadero
+grifo
+llave de agua
+esponja
+jabón
+shampoo
+acondicionador
+crema
+toalla
+tapete de baño
+cepillo
+cepillo de dientes
+pasta dental
+hilo dental
+rastrillo
+navaja de afeitar
+espejo de mano
+peine
+cepillo para cabello
+secadora de pelo
+tinte
+gel
+computadora
+laptop
+teclado
+ratón
+mouse
+pantalla
+monitor
+televisor
+proyector
+impresora
+escáner
+bocina
+altavoz
+audífonos
+cargador
+memoria usb
+usb
+disco duro
+ssd
+router
+módem
+antena
+cámara
+webcam
+micrófono
+tripié
+trípode
+drone
+dron
+consola
+control
+joystick
+tableta
+celular
+teléfono
+smartwatch
+reloj inteligente
+calculadora
+lupa
+regla
+compás
+transportador
+escuadrita
+libro
+cuaderno
+bloc
+hoja suelta
+papel
+folio
+carpeta
+archivero
+grapa
+engrane
+engrapadora
+sujetapapeles
+clip
+chinche
+tachuela
+cinta adhesiva
+diurex
+pegamento
+silicón
+resistol
+tinta
+pluma
+bolígrafo
+lapicero
+lápiz
+portaminas
+goma
+borrador
+sacapuntas
+marcador
+resaltador
+plumón
+pizarrón
+tiza
+gis
+acrílico
+acuarela
+pincel
+rodillo
+espátula de pintura
+caballetes
+paleta
+lienzo
+spray
+aerosol
+barniz
+solvente
+agua
+aceite
+alcohol
+vinagre
+cloro
+lejía
+desinfectante
+detergente
+suavizante
+perfume
+loción
+desodorante
+labial
+maquillaje
+polvo
+base
+rubor
+rimel
+rímel
+delineador
+sombras
+esmalte
+quitasmalte
+algodón
+hisopo
+curita
+vendaje
+apósito
+gasa
+termómetro
+oxímetro
+baumanómetro
+baumanometro
+estetoscopio
+jeringa
+aguja
+catéter
+cateter
+guante
+cubrebocas
+mascarilla
+bata
+cofia
+gasas
+torniquete
+frasco
+ampolleta
+ampolla
+suero
+gota
+pastilla
+tableta
+cápsula
+jarabe
+ungüento
+pomada
+crema antibiótica
+antiséptico
+venda
+muleta
+bastón
+silla de ruedas
+andadera
+prótesis
+prótesis dental
+lente
+gafas
+lentes
+microscopio
+telescopio
+binoculares
+prisma
+imán
+iman
+resorte
+muelle
+valvula
+válvula
+manguera
+boquilla
+embalaje
+caja
+cartón
+cartulina
+papel kraft
+bolsa
+sobre
+paquete
+lacre
+cuerda elástica
+hilo
+cordón
+listón
+cinta
+caucho
+silicona
+plástico
+vidrio
+metal
+acero
+hierro
+aluminio
+cobre
+bronce
+latón
+plomo
+estaño
+titanio
+niquel
+níquel
+oro
+plata
+zinc
+mármol
+granito
+pizarra
+piedra pómez
+pómez
+yesca
+carbón
+grafito
+tiza escolar
+arcilla
+porcelana
+cerámica
+azulejo
+loza
+barro cocido
+teja
+teja curva
+tapón
+corcho
+caucho espuma
+espuma
+unicel
+poliestireno
+poliuretano
+fibra de vidrio
+lona
+tela
+algodón textil
+lino
+lana
+seda
+poliéster
+denim
+mezclilla
+cuero
+piel
+gamuza
+charol
+hilo dental encerado
+cordón de zapato
+cremallera
+cierre
+botón
+broche
+hebilla
+velcro
+elástico
+guante de látex
+guante de nitrilo
+casco
+careta
+gafas de seguridad
+chaleco
+rodillera
+coderas
+mascarilla N95
+botas
+zapato
+zapatilla
+tenis
+sandalia
+pantufla
+chancla
+calcetín
+calceta
+pantalón
+playera
+camisa
+blusa
+falda
+vestido
+suéter
+sudadera
+chamarra
+abrigo
+impermeable
+cinturón
+bufanda
+gorra
+sombrero
+boina
+pasamontañas
+guantes
+manopla
+paraguas
+bolso
+cartera
+mochila
+maleta
+maletín
+portafolio
+riñonera
+cangurera
+neceser
+estuche
+billetera
+monedero
+llavero
+identificador
+tarjeta
+credencial
+billete
+moneda
+llave de casa
+llave del coche
+automóvil
+coche
+carro
+camioneta
+autobús
+bus
+microbús
+taxi
+motocicleta
+moto
+bicicleta
+triciclo
+patineta
+patín
+patín del diablo
+monopatín
+scooter
+segway
+patines
+patines en línea
+casco de bici
+bomba de aire
+parche
+llanta
+neumático
+rin
+rayo
+rayos de rueda
+cámara de aire
+freno
+pedal
+manubrio
+timon
+timón
+asiento
+sillín
+cadena de bici
+candado de bici
+velocímetro
+odómetro
+carburador
+inyector
+faro
+calavera
+parrilla
+parachoques
+defensa
+cofre
+cajuela
+parabrisas
+limpiaparabrisas
+retrovisor
+espejo lateral
+volante
+palanca
+claxon
+bocina del claxon
+tapete de auto
+cinturón de seguridad
+bolsa de aire
+filtro
+radiador de auto
+escape
+mofle
+silenciador
+amortiguador
+resorte de suspensión
+batería de auto
+alternador
+embrague
+transmisión
+diferencial
+eje
+balata
+disco de freno
+tambor
+llanta de refacción
+gato de coche
+triángulo
+señal reflectante
+bidón
+gasolina
+diésel
+aceite de motor
+anticongelante
+refrigerante
+liquido de frenos
+filtro de aire
+filtro de aceite
+barco
+lancha
+canoa
+kayak
+yate
+velero
+remo
+vela
+ancla
+boya
+brújula
+mapa
+gps
+altímetro
+odómetro de bici
+cuentakilómetros
+termómetro exterior
+pluviómetro
+casa
+departamento
+edificio
+rascacielos
+cabaña
+choza
+bodega
+garaje
+cochera
+patio
+jardín
+terraza
+balcón
+azotea
+pasillo
+escalera
+elevador
+rampa
+barandal
+ventanal
+puente
+túnel
+carretera
+avenida
+calle
+banqueta
+semaforo
+semáforo
+poste
+luminaria
+banca
+fuente
+estatua
+monumento
+kiosco
+parque
+plaza
+mercado
+tienda
+supermercado
+farmacia
+hospital
+clínica
+consultorio
+laboratorio
+escuela
+universidad
+biblioteca
+museo
+teatro
+cine
+estadio
+gimnasio
+cancha
+piscina
+alberca
+zoológico
+acuario
+aeropuerto
+terminal
+estación
+andén
+taquilla
+torniquete
+vagón
+tren
+metro
+tranvía
+funicular
+teleférico
+avión
+helicóptero
+globo
+paracaídas
+cohete
+satélite
+antena parabólica
+plataforma
+grúa
+montacargas
+carretilla
+diablito
+pallet
+tarima
+saco
+costal
+cesta
+canasta
+canastilla
+cajita
+cajón plástico
+tupper
+recipiente
+contenedor
+bote
+barril
+tambor metálico
+bidón plástico
+garrafa
+botellón
+garrafón
+vasija
+tinaja
+cántaro
+copa
+flanera
+moldes
+molde
+rodillo de cocina
+palote
+palo
+cucharita
+cucharita medidora
+báscula
+báscula de cocina
+termómetro de cocina
+temporizador
+reloj de cocina
+mandolina
+mortero
+majadero
+maja
+machacador
+prensa de ajo
+molcajete
+tejolote
+metate
+comal
+plancha de asar
+espumadera
+pinza de cocina
+tenaza
+pinzas
+rejilla
+refrigerador
+refri
+frigorífico
+congelador
+despachador
+dispensador
+filtro de agua
+garrafón de agua
+hielera
+bolsa térmica
+envase
+empaque
+etiqueta
+código de barras
+precinto
+precinto de seguridad
+alambre
+alambre dulce
+alambre recocido
+varilla
+malla
+malla ciclónica
+rejilla metálica
+reja
+portón
+portón eléctrico
+verja
+valla
+muro
+tapia
+barda
+columna
+pilar
+pilastra
+contrafuerte
+arco
+dintel
+cornisa
+alfeizar
+alféizar
+zócalo
+rodapié
+moldura
+boveda
+bóveda
+cúpula
+cimentación
+zapatas
+losacero
+loseta
+loseta cerámica
+loseta vinílica
+duela
+parquet
+laminado
+impermeabilizante
+sellador
+pintura
+primer
+fijador
+disolvente
+rodapie
+masilla
+estuco
+endurecedor
+andamio
+plomada
+concreto
+hormigón
+mezcladora
+cuchara de albañil
+fratacho
+llana
+regla de albañil
+carretón
+pison
+pisón
+vibrador de concreto
+cubo
+palustre
+brocha
+mazo
+marro
+perico
+pinza de presión
+pico
+pala
+azadón
+rastrillo
+machete
+hacha
+sable
+cuchilla
+cutter grande
+serrucho
+barreta
+barretón
+palanca
+palanqueta
+escalera plegable
+banquillo
+andamio móvil
+plataforma elevadora
+torre
+jaula
+jaula para perro
+comedero
+bebedero
+correa
+collar
+arnés
+bozal
+rascador
+arenero
+pecera
+acuario pequeño
+filtro de acuario
+calentador de acuario
+sustrato
+grava de acuario
+red
+red de pesca
+anzuelo grande
+caña
+carrete
+sedal
+plomada de pesca
+flotador
+carnada
+señuelo
+navaja multiusos
+botiquín
+linterna frontal
+fósforo
+cerillo
+encendedor
+mechero
+vela
+cirio
+farol
+carpa
+tienda de campaña
+saco de dormir
+colchoneta
+esterilla
+aislante
+mochila de trekking
+cantimplora metálica
+hornillo
+cartucho de gas
+olla camping
+sartén camping
+brújula de campo
+mapa topográfico
+altavoz portátil
+banco
+mesa plegable
+silla plegable
+nevera portátil
+parrilla portátil
+asador
+carbón vegetal
+pellets
+pinchos
+brocheta
+malla para asar
+guante térmico
+delantal
+escobillón
+cepillo alambre
+cubiertos
+vajilla
+juego de platos
+semilla
+fruto
+fruta
+manzana
+pera
+plátano
+banana
+naranja
+mandarina
+limón
+lima
+toronja
+pomelo
+uva
+fresa
+frambuesa
+zarzamora
+mora
+arándano
+cereza
+melón
+sandía
+piña
+mango
+papaya
+guayaba
+tuna
+kiwi
+durazno
+melocotón
+ciruela
+higo
+granada
+maracuyá
+pitaya
+lichi
+carambola
+tamarindo
+coco
+avellana
+nuez
+almendra
+cacahuate
+maní
+pistache
+castaña
+papa
+patata
+zanahoria
+betabel
+remolacha
+jitomate
+tomate
+pepino
+calabaza
+calabacita
+berenjena
+pimiento
+chile
+cebolla
+ajo
+porro
+puerro
+apio
+lechuga
+espinaca
+acelga
+col
+repollo
+brócoli
+coliflor
+col rizada
+rábano
+camote
+yuca
+maíz
+elote
+grano
+frijol
+lenteja
+garbanzo
+arroz
+trigo
+avena
+cebada
+centeno
+quinoa
+amaranto
+soya
+mijo
+pan
+tortilla
+tamal
+arepa
+pasta
+fideo
+espagueti
+macarrón
+raviol
+gnocchi
+queso
+leche
+yogur
+mantequilla
+crema ácida
+nata
+huevo
+clara
+yema
+carne
+pollo
+res
+cerdo
+pescado
+atún
+salmón
+camarón
+pulpo
+calamar
+almeja
+ostión
+mejillón
+jaiba
+cangrejo
+langosta
+conejo
+cordero
+pavo
+codorniz
+sal
+azúcar
+harina
+levadura
+bicarbonato
+pimienta
+orégano
+comino
+canela
+clavo
+nuez moscada
+cúrcuma
+pimentón
+paprika
+laurel
+tomillo
+romero
+salvia
+hierbabuena
+menta
+café
+cacao
+chocolate
+té
+mate
+refresco
+jugo
+zumo
+agua mineral
+soda
+cerveza
+vino
+sidra
+licor
+whisky
+ron
+vodka
+tequila
+mezcal
+pulque
+vaso térmico
+popote
+pajilla
+sorbete
+bombilla mate
+coctelera
+agarradera
+pinza hielo
+cuchara larga
+cubito
+hielera portátil
+bandeja
+charola
+bandeja horno
+refractario
+pirex
+bol
+tazón
+plato hondo
+plato llano
+lavavajillas
+lavajillas
+secaplatos
+escurridor platos
+porta esponja
+dispensador jabón
+toallero
+portapapeles cocina
+porta cuchillos
+imán cuchillos
+estuche cuchillos
+cinturón de herramientas
+caja de herramientas
+organizador
+estantería
+repisa
+soporte
+soporte tv
+brazo articulado
+rótulo
+letrero
+cartel
+pizarrón blanco
+pizarrón negro
+marquesina
+anuncio
+etiquetadora
+impresora de etiquetas
+sellos
+sello
+tampon
+tampón
+tintero
+cuchilla bisturí
+bisturí
+lupa de mano
+cuentahílos
+calibre
+micrómetro
+regla metálica
+escuadra grande
+transportador grande
+compás grande
+cinta teflón
+teflón
+teipe
+cinta doble cara
+velas aromáticas
+difusor
+humificador
+humidificador
+deshumificador
+purificador
+ventana corredera
+mosquitera
+rejilla ventilación
+extractor baño
+campana
+campana extractora
+filtro campana
+parrilla de gas
+quemador
+encendido
+chispero
+cerillo largo
+soplete cocina
+antorcha
+rallador fino
+rallador grueso
+pelador juliana
+pelador Y
+abridor
+abrebotellas
+saca chapas
+leve
+palanca corta
+banco de trabajo
+tornillo de banco
+mordaza
+prensa de columna
+trompo
+torno
+fresadora
+sierra de cinta
+ingletadora
+caladora
+sierra circular
+cepillo eléctrico
+router madera
+lijadora
+lija
+lija de agua
+bloque lija
+disco flap
+disco corte
+disco diamante
+amoladora
+esmeril angular
+mini esmeril
+careta de soldar
+electrodo
+varilla soldar
+alambre mig
+pistola mig
+máquina soldar
+inversor
+compresor
+manguera aire
+pistola aire
+manómetro
+pistola pintura
+boquilla pintura
+abanico
+pistola silicón
+barras silicón
+remachadora
+remache
+remache pop
+abrazadera
+abrazadera manguera
+brida
+cincho
+cinchos
+precinto plástico
+taquete
+taquete expansivo
+taquete químico
+resina epoxi
+epoxi
+mascarilla pintura
+filtro n95
+filtro carbón
+carbón activado
+cartucho filtro
+overol
+overol desechable
+botas punta de acero
+capa
+delantal cuero
+manga
+mangas de cuero
+calzado de seguridad
+plantilla
+casaca
+chaleco reflectante
+lámpara minera
+farol de trabajo
+tripié luz
+reflector led
+balastro
+porta foco
+portalámparas
+contacto múltiple
+multicontacto
+regulador
+no-break
+ups
+batería recargable
+pilas recargables
+cargador pilas
+estuche herramientas
+maletín rígido
+caja plástica
+organizador tornillos
+separador
+divisor
+charola magnética
+torreta
+carrito
+carro de herramientas
+rodaja
+rueda
+llanta maciza
+rodamiento
+balero
+cojinete
+eje metálico
+pasador
+chaveta
+arandela elástica
+clip seguro
+seguro
+retén
+sello mecánico
+empaque
+junta
+junta tórica
+o-ring
+aceitera
+grasera
+engrasera
+grasera manual
+bomba
+bomba sumergible
+bomba centrífuga
+válvula bola
+válvula mariposa
+válvula compuerta
+maneral
+volante válvula
+filtro de agua doméstico
+purgador
+trampa de vapor
+radiador aceite
+rejilla ventilador
+rejilla de piso
+coladera
+coladera de piso
+rejilla lineal
+canaleta
+sumidero
+tubería
+tubo pvc
+tubo cobre
+codo
+tee
+reducción
+acople
+unión
+brida industrial
+brida roscada
+abrazadera tubo
+soporte tubo
+colgante
+varilla roscada
+taquete de techo
+anclaje
+anclaje químico
+taquete metálico
+perno
+perno de anclaje
+perno prisionero
+tornillo allen
+llave allen
+llave torx
+punta
+punta philips
+punta plana
+morsa
+sargent
+sargento
+sargento carpintero
+escoplo
+gubia
+formón ancho
+raspa
+raspador
+canto madera
+tapacanto
+barniz marino
+sellador nitro
+thinner
+aguarrás
+disolvente universal
+disolvente nitro
+alcohol isopropílico
+isopropanol
+acetona
+éter
+metanol
+etanol
+propano
+butano
+gas lp
+gas natural
+cilindro de gas
+regulador gas
+manguera gas
+abrazadera gas
+válvula gas
+estuche medición
+multímetro
+probador voltaje
+buscapolos
+pinza amperimétrica
+tester
+alicate corte
+corta frío
+cortafrío
+cincel frío
+broquero
+adaptador
+mandril
+mecha
+broca pala
+broca forstner
+broca cobalto
+broca widia
+punta SDS
+rotomartillo
+demoledor
+martillo demoledor
+perforadora
+taladro columna
+prensa taladro
+mesa de corte
+guía corte
+tope paralelo
+escuadra combinación
+calibrador
+micrómetro exterior
+micrómetro interior
+galga
+galgas
+regla flexible
+flexómetro
+metro plegable
+distanciómetro
+láser
+nivel láser
+plomada láser
+detector metales
+buscador vigas
+termómetro infrarrojo
+medidor humedad
+anemómetro
+luxómetro
+sonómetro
+osciloscopio
+fuente poder
+fuente de poder
+soldador
+soldadura estaño
+estañador
+succionador estaño
+malla desoldante
+protoboard
+placa pcb
+resistencia
+condensador
+capacitor
+inductor
+bobina
+diodo
+led rojo
+led verde
+transistor
+mosfet
+circuito integrado
+microcontrolador
+placa arduino
+raspberry
+relé
+rele
+relay
+zumbador
+buzzer
+altavoz pequeño
+potenciómetro
+encoder
+interruptor palanca
+botón
+pulsador
+conector
+borne
+bornera
+regleta eléctrica
+cable banana
+punta caimán
+tornillo mariposa
+tuerca mariposa
+tuerca ciega
+tapón goma
+topes de puerta
+tope
+tope de estacionamiento
+bolardo
+cono vial
+barrera
+valla peatonal
+señal de tránsito
+placa metálica
+rejilla seguridad
+candado numerico
+candado numérico
+candado con llave
+cerradura digital
+domo
+cúpula acrílica
+polisombra
+malla sombra
+toldo
+carpa plegable
+pérgola
+sombrilla
+tendal
+parasol
+vela de sombra
+tronco seco
+leña
+astilla
+fajo
+ramillete
+bulbo
+rizoma
+semillero
+almácigo
+macetita
+substrato
+sustrato universal
+fertilizante
+abono
+compost
+humus
+tierra negra
+tierra de hoja
+regadera
+aspersor
+aspersor giratorio
+manguera retráctil
+conector rápido
+pistola riego
+difusor riego
+timer riego
+programador riego
+gotero
+microtubo
+estaca
+tutor
+enrejado
+trepador
+guante de jardinería
+pala jardinera
+rastrillo de mano
+azada
+escardillo
+carretilla jardin
+cortacésped
+podadora
+desbrozadora
+orilladora
+motosierra
+serrucho poda
+tijera poda
+cuchilla césped
+aireador
+rastrillo hojas
+soplador
+aspirador hojas
+bolsa jardín
+compostera
+vermicompostera
+termómetro suelo
+pluviómetro jardín
+planta suculenta
+cactus
+bonsái
+bonsai
+orquídea
+rosa
+tulipán
+girasol
+margarita
+clavel
+gardenia
+jazmín
+lavanda
+romero planta
+tomillo planta
+albahaca
+menta planta
+perejil
+cilantro
+cebollín
+hierbabuena planta
+perro
+gato
+caballo
+vaca
+cerdo animal
+oveja
+cabra
+pollo animal
+gallo
+gallina
+pato
+ganso
+pavo real
+paloma
+canario
+loro
+hamster
+hámster
+conejo animal
+ratón
+rata
+ardilla
+zorro
+lobo
+oso
+tigre
+león
+jirafa
+elefante
+cebra
+rinoceronte
+hipopótamo
+delfín
+ballena
+foca
+lobo marino
+morsa
+tiburón
+manta raya
+pulga
+mosca
+mosquito
+abeja
+avispa
+hormiga
+mariposa
+polilla
+libélula
+saltamontes
+grillo
+escarabajo
+cucaracha
+caracol
+babosa
+lombriz
+araña
+alacrán
+escorpión
+ciempiés
+milpiés
+camello
+dromedario
+canguro
+koala
+panda
+perezoso
+ornitorrinco
+iguana
+lagartija
+cocodrilo
+caimán
+serpiente
+víbora
+boa
+pitón
+tortuga
+gecko
+trucha
+carpa
+pez dorado
+pez betta
+pez payaso
+pez espada
+mero
+sardina
+anchoa
+boquerón
+bacalao.
